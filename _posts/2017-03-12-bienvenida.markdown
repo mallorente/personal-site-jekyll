@@ -9,7 +9,7 @@ Hola a todos. Como preparativo para mis propósitos de nuevo año, he decidido i
 
 No es la primera vez que intento crear un blog y mejorar mi presencia en la red, así que con una gran humildad espero que esta vez sea la buena y que por fin me comprometa a escribir periódicamente en este sitio. Os invito a que lo visitéis periódicamente para comprobar las novedades.
 
-De momento, el aspecto es un poco espartano. He decidido utilizar un generador de sitios estáticos, en concreto [Jekyll][jekyll] porque parece el más extendido, y tengo que aprender a cambiar el aspecto y el layout. El sitio lo estoy alojando en [Netlify][netlify], un hosting que automáticamente despliega el código alojado en GitHub[github]. Es cierto que también podría haber utilizado [GitHub Pages][github-pages], pero he preferido guardar esa bala e investigar un poco por mi cuenta.
+De momento, el aspecto es un poco espartano. He decidido utilizar un generador de sitios estáticos, en concreto [Jekyll][jekyll] porque parece el más extendido, y tengo que aprender a cambiar el aspecto y el layout. El sitio lo estoy alojando en [Netlify][netlify], un hosting que automáticamente despliega el código alojado en [GitHub][github]. Es cierto que también podría haber utilizado [GitHub Pages][github-pages], pero he preferido guardar esa bala e investigar un poco por mi cuenta.
 
 [jekyll]: http://jekyllrb.com
 [netlify]: https://www.netlify.com/
